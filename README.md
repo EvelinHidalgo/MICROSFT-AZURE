@@ -48,7 +48,7 @@ Una máquina virtual es un software que crea una capa independiente donde se emu
 
 2.Click en empiece gratis y se procede a crear o vincular con la cuenta del usuario.
 
-![](https://github.com/EvelinHidalgo/MICROSFT-AZURE/blob/master/img/img3.png)
+![](https://github.com/EvelinHidalgo/MICROSFT-AZURE/blob/master/img/img3.jpg)
 
 3.Llenar todas las celdas de verificación para crear una cuenta gratis en Microsoft Azure.
 
@@ -137,7 +137,7 @@ Diagnóstico de arranque, diagnóstico de sistema invitado, apagado automático,
 ![](https://github.com/EvelinHidalgo/MICROSFT-AZURE/blob/master/img/img24.png)
 24.Finalmente se obtiene la máquina virtual
 ![](https://github.com/EvelinHidalgo/MICROSFT-AZURE/blob/master/img/img25.png)
-![](https://github.com/EvelinHidalgo/MICROSFT-AZURE/blob/master/img/img26.png)
+![](https://github.com/EvelinHidalgo/MICROSFT-AZURE/blob/master/img/img26.jpg)
 
 **BIBLIOGRAFÍA**
 
